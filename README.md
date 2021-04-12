@@ -14,6 +14,8 @@ The steps must be done in this order or else !!!!!!!!!!!!!!!!!
 ### About
 This was a quick project to learn about react.js and how to deal with state/props of components.
 Hopefully it'll make you a bit more zen (unless you have 1000 tasks and then you won't even be able to read one)
+![App screenshot 1](/public/InTheClouds.png)
+![App screenshot 2](/public/InTheClouds2.png)
 
 ### Contact
 If you have any questions / ideas feel free to reach me at [me@davidhenderson.tech](mailto:me@davidhenderson.tech)
