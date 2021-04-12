@@ -16,5 +16,5 @@ This was a quick project to learn about react.js and how to deal with state/prop
 Hopefully it'll make you a bit more zen (unless you have 1000 tasks and then you won't even be able to read one)
 
 ### Contact
-If you have any questions / ideas feel free to reach me at (me@davidhenderson.tech)[mailto:me@davidhenderson.tech]
-or on my (LinkedIn)[https://www.LinkedIn.com/in/davidhendersontech]
+If you have any questions / ideas feel free to reach me at [me@davidhenderson.tech](mailto:me@davidhenderson.tech)
+or on my [LinkedIn](https://www.LinkedIn.com/in/davidhendersontech)
